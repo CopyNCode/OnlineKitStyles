@@ -1,0 +1,144 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  margin: 0 10%;
+}
+
+h1 {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 26px;
+    font-weight: bolder;
+}
+
+ul {
+  margin-top: 10px;
+  margin-bottom: 50px; 
+}
+
+#title {
+      text-align: center;
+      margin-bottom: 20px;
+      font-size: 40px;
+}
+
+#page-heading {
+      text-align: left;
+      font-size: 40px;
+}
+
+.container {
+  border: 2px solid #a2a2a6;
+  padding: 30px 30px;
+  margin: 30px auto;
+}
+
+.colours-container {
+  width: 100%;
+}
+
+.colour-panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.polignac {
+  background-color: #BF809E;
+  color: #fff;
+}
+
+.dusk-blue {
+  background-color: #7EA1BF;
+  color: #000;
+}
+
+.french-herb {
+  background-color: #7A8C3A;
+}
+
+.turmeric-tea {
+  background-color: #D98E32;
+}
+
+.mushroom {
+  background-color: #efd9ca;
+}
+
+.fonts-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.quicksand {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.raleway {
+  font-family: 'Raleway', monospace;
+}
+
+.comfortaa {
+  font-family: 'Comfortaa', sans-serif;
+}
+
+.textstyles-panel h1 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: 'Comfortaa', sans-serif;
+}
+
+.textstyles-panel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.textstyles-panel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+/* 
+Polignac, Dusk Blue, Fresh Herb, Turmeric Tea and Mushroom (beige)
+
+Color Theme Swatches in Hex 
+.AIM-X-1-hex { color: #BF809E; }
+.AIM-X-2-hex { color: #7EA1BF; }
+.AIM-X-3-hex { color: #7A8C3A; }
+.AIM-X-4-hex { color: #D98E32; }
+.AIM-X-5-hex { color: #efd9ca; }
+
+Color Theme Swatches in RGBA
+.AIM-X-1-rgba { color: rgba(191, 128, 157, 1); }
+.AIM-X-2-rgba { color: rgba(126, 160, 191, 1); }
+.AIM-X-3-rgba { color: rgba(122, 140, 57, 1); }
+.AIM-X-4-rgba { color: rgba(216, 141, 49, 1); }
+.AIM-X-5-rgba { color: rgba(x, x, x, x); }
+
+Color Theme Swatches in HSLA
+.AIM-X-1-hsla { color: hsla(331, 33, 62, 1); }
+.AIM-X-2-hsla { color: hsla(208, 33, 62, 1); }
+.AIM-X-3-hsla { color: hsla(73, 41, 38, 1); }
+.AIM-X-4-hsla { color: hsla(33, 68, 52, 1); }
+.AIM-X-5-hsla { color: hsla(x, x, x, x); } 
+*/
